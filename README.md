@@ -1,1 +1,3 @@
 # Text_Sentiment_Analysis
+The main idea of our project is to analyze the basic emotions exhibited by a text and classify them as one of six different emotions - anger, disgust, fear, joy, sadness, and surprise using a supervised machine learning algorithm. We have trained our model using the dataset, Emotion Classification Dataset. This dataset contains 16,000+ tweets written in the English language exhibiting six different emotions - anger, disgust, fear, joy, sadness, and surprise. The datasets simply have texts and the labels attached to it, as number 0-5.  
+The model classifies the sentiments of the texts. This can be used in captions/bio in emails, social media sites, etc. to ensure our words match the tone we are expressing. 
